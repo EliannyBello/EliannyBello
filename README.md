@@ -6,3 +6,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EliannyBello&theme=radical" alt="More Nish Stats" /></p>
 </a>
 
+ <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code><code> 
+  <img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg"> </code>
