@@ -1,3 +1,12 @@
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<!-- GIF HEADER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+
+
+
+
 ## GitHub Statistics
 [![EliannyBello´s GitHub Stats](https://github-readme-stats.vercel.app/api?username=EliannyBello&show_icons=true&theme=radical)](https://github.com/Nishant1500?tab=overview)
 <br>
