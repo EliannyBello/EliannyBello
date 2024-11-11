@@ -4,7 +4,7 @@
 <!-- GIF HEADER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
  <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=FF1493&center=true&vCenter=true&width=500&lines=Hey%2C+Hi+I'm+Elianny;Welcome+to+my+profile!;Description+of+myself%3A;Full+Stack+Developer;" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=FF1493&center=true&vCenter=true&width=500&lines=Hi,+I'm+Elianny;Welcome+to+my+profile!;Description+of+myself%3A;Full+Stack+Developer;" alt="Typing SVG" /></a>
   </div>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
